@@ -1,3 +1,4 @@
 Second letter of first name: h
 Last letter of last name: s
 Favorite candy: mint aero bar
+Computer Science
